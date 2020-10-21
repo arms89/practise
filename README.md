@@ -1,2 +1,2 @@
 # practise
-repository to store random practice codes
+Repository for practice - Python problems
